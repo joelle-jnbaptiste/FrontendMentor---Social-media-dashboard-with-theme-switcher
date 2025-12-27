@@ -75,10 +75,10 @@ This project focuses on:
 
 ### ✨ Built With
 
-- ✨ [![Angular][Angular-shield]][Angular-url]
-- ✨ [![TypeScript][TypeScript-shield]][TypeScript-url]
-- ✨ [![HTML5][HTML-shield]][HTML-url]
-- ✨ [![Sass][Sass-shield]][Sass-url]
+[![Angular][Angular-shield]][Angular-url]
+[![TypeScript][TypeScript-shield]][TypeScript-url]
+[![HTML5][HTML-shield]][HTML-url]
+[![Sass][Sass-shield]][Sass-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
